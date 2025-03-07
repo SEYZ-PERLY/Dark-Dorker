@@ -28,12 +28,11 @@ Before running this script, make sure you have the necessary dependencies instal
 
 2. Install the dependencies:
 
-```bash
 pip install -r requirements.txt
 
-3. Start Tor on your system (make sure the SOCKS5 proxy is running on 127.0.0.1:9050).
+4. Start Tor on your system (make sure the SOCKS5 proxy is running on 127.0.0.1:9050).
 
-4. Run the script:
+5. Run the script:
 
 ```bash
 python main.py
@@ -42,7 +41,6 @@ python main.py
 
 1. When launched, the script displays an animated banner and provides two search options:
 
-```bash
 Regular Web Search
 Dark Web Search
 
