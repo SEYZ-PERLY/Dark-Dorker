@@ -24,7 +24,7 @@ Before running this script, make sure you have the necessary dependencies instal
 
     ```bash
     git clone https://github.com/SEYZ-PERLY/Dark-Dorker.git
-    cd dark-dorker
+    cd Dark-Dorker
     ```
 
 2.  Install the dependencies:
