@@ -23,7 +23,7 @@ Before running this script, make sure you have the necessary dependencies instal
 1.  Clone this repository:
 
     ```bash
-    git clone [https://github.com/seyz-perly/dark-dorker.git](https://github.com/your-username/dark-dorker.git)
+    git clone [https://github.com/SEYZ-PERLY/Dark-Dorker.git](https://github.com/SEYZ-PERLY/Dark-Dorker.git)
     cd dark-dorker
     ```
 
